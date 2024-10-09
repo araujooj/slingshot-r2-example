@@ -1,0 +1,23 @@
+{
+  "public": {
+    "appInfo": {
+      "name": "Meteor Template by quave"
+    }
+  },
+  "packages": {
+    "quave:email-postmark": {
+      "apiToken": "",
+      "from": ""
+    }
+  },
+  "devops": {
+    "r2": {
+      "region": "",
+      "bucket": "",
+      "accountId": "",
+      "accessKey": "",
+      "secretKey": "",
+      "cdn": ""
+    }
+  }
+}
